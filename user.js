@@ -1,5 +1,5 @@
 module.exports.user = {
-    name: 'Peter',
+    name: 'Peter Handsome',
     lastname: 'Lim'
 }
 
